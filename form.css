@@ -1,0 +1,27 @@
+form {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQspiphgxaXfyVBeg6RUsRpMGHSmQQ_7hjwhA&s");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  text-shadow: 5px 5px 5px black;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-style: italic;
+}
+fieldset {
+  width: 60%;
+  border-radius: 50px 0px;
+  box-shadow: 5px 5px 5px white;
+  border: none;
+  background-image: linear-gradient(white, blue);
+}
+a {
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
